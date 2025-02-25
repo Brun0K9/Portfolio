@@ -18,11 +18,11 @@
 
 # 📂 Projetos Destacados
 
-🔹 Projeto 1 - Nome do ProjetoBreve descrição do projeto e tecnologias utilizadas.
+🔹 Projeto 1 - Lista de Compras
 
-🔹 Projeto 2 - Nome do ProjetoBreve descrição do projeto e tecnologias utilizadas.
+🔹 Projeto 2 - Tic Task - em desenvolvimento
 
-🔹 Projeto 3 - Nome do ProjetoBreve descrição do projeto e tecnologias utilizadas.
+🔹 Projeto 3 - loading...
 
 # 📥 Como Baixar e Rodar
 
@@ -34,7 +34,7 @@ cd Portfolio
 
 # 📂 Abrindo o projeto no navegador
 
-##Se o projeto for apenas HTML e CSS, você pode abrir diretamente no navegador:
+## Se o projeto for apenas HTML e CSS, você pode abrir diretamente no navegador:
 
 Windows
 
